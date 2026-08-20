@@ -6,7 +6,7 @@ It's a repository documenting my **100 Days of Code** journey as I learn and pra
 
 Each day has its Separate own folder containing the code, exercises, and problems completed that day.
 
-* `Day 1/` to `Day 10/` — Daily practice and coding exercises
+* `Day 1/` to `Day 11/` — Daily practice and coding exercises
 
 ## About
 
