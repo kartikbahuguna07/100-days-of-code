@@ -12,4 +12,4 @@ Each day has its Separate own folder containing the code, exercises, and problem
 
 * **Language:** C
 * **Editor:** Zed (Built with Rust)
-* **Platform:** Windows
+* **Platform:** Windows/Linux
